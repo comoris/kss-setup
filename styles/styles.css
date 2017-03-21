@@ -1,0 +1,7 @@
+.border, .a-button {
+  border: 1px solid yellow; }
+
+.a-button {
+  background: red;
+  padding: 2rem;
+  color: blue; }

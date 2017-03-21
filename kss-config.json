@@ -1,0 +1,7 @@
+{
+  "source": "styles",
+  "css": [
+    "../styles/styles.css"
+  ],
+  "js": []
+}
